@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lotus Island</title>
+  
+  <subtitle>无意识碎碎念</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-01-30T03:32:14.628Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Jiahan Zhu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的有的没的</title>
+    <link href="http://example.com/2022/01/30/%E6%88%91%E7%9A%84%E6%9C%89%E7%9A%84%E6%B2%A1%E7%9A%84/"/>
+    <id>http://example.com/2022/01/30/%E6%88%91%E7%9A%84%E6%9C%89%E7%9A%84%E6%B2%A1%E7%9A%84/</id>
+    <published>2022-01-30T02:41:29.000Z</published>
+    <updated>2022-01-30T03:32:14.628Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;第一篇博客写啥，我从好几天前就开始想了，想来想去还是觉得先感谢一下申书记更合适，（拒绝煽情🈲）因为没有他就没有这个网站哈哈。感谢sy书记数天来不厌其烦地帮我debug，以及一个又一个下午地试错，才让我没有半途而废（搞这个真的是好麻烦T^T）&lt;br&gt;正好24号是认识书记的一</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2022/01/18/hello-world/"/>
+    <id>http://example.com/2022/01/18/hello-world/</id>
+    <published>2022-01-18T09:18:29.565Z</published>
+    <updated>2022-01-18T09:18:29.565Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
