@@ -53,4 +53,36 @@
         <tag>-今天你学习了吗</tag>
       </tags>
   </entry>
+  <entry>
+    <title>一不做二不休之大物笔记</title>
+    <url>/2022/03/22/%E4%B8%80%E4%B8%8D%E5%81%9A%E4%BA%8C%E4%B8%8D%E4%BC%91%E4%B9%8B%E5%A4%A7%E7%89%A9%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>趁着还有学习这股劲，不如把大雾笔记一起做了。yysy之前一直不理解为什么要学大雾，毕竟真的不太能get到经济学和物理的关系。但是后来听说之前一位诺奖获得者就是用热传导公式为理财产品定价，噢那确实或许有关系（？）总之也算是一个证明，记录一下大雾学习心路历程和一些知识点，可能还是境界不够，或许学到更多的东西会有恍然大悟之感，毕竟爱因斯坦的大一统世界一切的一切都相关。</p>
+<span id="more"></span>
+<hr>
+<h1 id="5-简谐振动"><a href="#5-简谐振动" class="headerlink" title="5.简谐振动"></a>5.简谐振动</h1><h2 id="5-1简谐振动的描述"><a href="#5-1简谐振动的描述" class="headerlink" title="5.1简谐振动的描述"></a>5.1简谐振动的描述</h2><p><strong>机械振动：物体在一定位置附近作来回往复的运动</strong><br>比如弹簧振子，单摆，心脏（涨知识！）</p>
+<p><strong>广义振动：任一物理量在某一量值附近随时间作周期性变化</strong></p>
+<p><em>机械振动的原因：物体所受的恢复力和物体所具有的惯性</em></p>
+<p><em><strong>物体运动时，离开平衡位置的位移（角位移）随时间按余弦（或正弦）规律随时间变化：$x=Acos(\omega t+\varphi)$,则物体为简谐振动</strong></em></p>
+<p>各物理量解释：</p>
+<blockquote>
+<ul>
+<li><strong>A</strong>: 振幅：表示物体离开平衡位置的最大位移的绝对值。</li>
+</ul>
+</blockquote>
+<p>决定于其初始条件；决定了系统的动量。</p>
+<blockquote>
+<ul>
+<li><strong>$\omega$</strong>: 角频率（圆频率）：<br>周期T有如下特征：<br>$Acos(\omega t+\varphi_{0})=Acos[(\omega t+T)+\varphi_{0})]=Acos(\omega t+\varphi_{0}+2\pi)$,<br>由此可知，<br>$T=\frac{2\pi}{\omega}$</li>
+</ul>
+</blockquote>
+<blockquote>
+<ul>
+<li>$\varphi$: 初相位<br>系统一个确定的运动状态必须与一个确定的相位对应，在,相位是能确定系统任意时刻振动状态的物理量 $\varphi=\omega t+\varphi_{0}$</li>
+</ul>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>-今天你学习了吗</tag>
+      </tags>
+  </entry>
 </search>
