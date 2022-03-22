@@ -48,6 +48,9 @@
 <h1 id=""><a href="#" class="headerlink" title=""></a></h1><h2 id="样本方差的分布"><a href="#样本方差的分布" class="headerlink" title="样本方差的分布"></a>样本方差的分布</h2><p>样本方差也是随机变量，那必然就有自己的均值、方差和分布，$S_{n}^{2}=\frac{1}{n-1}\sum_{i=1}^{n}(X_{i}-\bar X)^{2}$[sample variance estimator],这个估计量是对于$\sigma^{2}$的无偏估计———$E(S_{n}^{2})=\sigma^{2}.$</p>
 <h3 id="定义：无偏估计"><a href="#定义：无偏估计" class="headerlink" title="定义：无偏估计"></a>定义：无偏估计</h3><p>估计量的数学期望等于被估计参数的真实值，则称此估计量为被估计参数的无偏估计，即具有无偏性</p>
 <h3 id="定理："><a href="#定理：" class="headerlink" title="定理："></a>定理：</h3><p>$X^{n}=(X_{1},…,X_{n})$ is an IID random sample from a population with $(\mu,\sigma^{2})$, then for all n&gt;1, $E(S_{n}^{2})=\sigma^{2}$</p>
+<p>Q1:最大似然估计没办法求出伽马函数的$\alpha，\beta$的估计值，没有显式解，这个时候怎么办</p>
+<p>Q2：区间估计的时候，置信水平$1-\alpha$时，两边都取$\frac{\alpha}{2}$,为什么？</p>
+<p>标准</p>
 ]]></content>
       <tags>
         <tag>-今天你学习了吗</tag>
