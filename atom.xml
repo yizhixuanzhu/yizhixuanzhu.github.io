@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-21T01:27:36.914Z</updated>
+  <updated>2024-08-11T10:07:57.996Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2023年年终总结</title>
+    <link href="http://example.com/2024/08/08/2023%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    <id>http://example.com/2024/08/08/2023%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</id>
+    <published>2024-08-08T10:38:28.000Z</published>
+    <updated>2024-08-11T10:07:57.996Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;引子&quot;&gt;&lt;a href=&quot;#引子&quot; class=&quot;headerlink&quot; title=&quot;引子&quot;&gt;&lt;/a&gt;引子&lt;/h1&gt;&lt;p&gt;Hi，今年我来迟了。&lt;/p&gt;
+&lt;p&gt;谁能想到这篇2023年终总结写于2024.08.08呢 &lt;br&gt;（比较一下2022年的年终总结可是从2022年8月就开始动笔了呢，拖延症又加强啦真棒）&lt;/p&gt;
+&lt;p&gt;不知道把年终总结拖到年末去写是不是明智的选择，因为前面很多发生的事情都已经忘记了，但是一方面我又觉得年末还能记得的事情可能才是这一年真正需要被记住的事情&lt;/p&gt;
+&lt;p&gt;今年的年终总结迟到了很久，但好歹也是把这个缺口给补上了。2023年过得很慌张，似乎还没实现去年年终总结里面讲的“自我实现的预言”，但没关系，延迟满足的能力越来越强了，其实这也是一种进步的表现。最尴尬的是在电脑面前开始写年终总结，竟发现无从下手。（有一说一，我的思想深刻程度及有趣程度真的是在逐年退化）&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="-我肩上是风" scheme="http://example.com/tags/%E6%88%91%E8%82%A9%E4%B8%8A%E6%98%AF%E9%A3%8E/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2022年终总结</title>
     <link href="http://example.com/2022/10/06/2022%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
     <id>http://example.com/2022/10/06/2022%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</id>
     <published>2022-10-06T15:18:57.000Z</published>
-    <updated>2023-01-21T01:27:36.914Z</updated>
+    <updated>2023-02-02T12:55:31.263Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;引子&quot;&gt;&lt;a href=&quot;#引子&quot; class=&quot;headerlink&quot; title=&quot;引子&quot;&gt;&lt;/a&gt;引子&lt;/h1&gt;&lt;p&gt;Hi，今年我又来了。&lt;/p&gt;
@@ -73,7 +93,7 @@
     <link href="http://example.com/2022/07/03/%E5%8D%95%E5%BC%80%E4%B8%80%E7%AF%87%E8%AE%B0%E5%BD%95%E9%82%A3%E4%BA%9Bzzk%E6%83%8A%E5%90%93%E4%BA%86%E6%97%B6%E5%85%89%E6%BF%80%E6%80%92%E4%BA%86%E5%B2%81%E6%9C%88%E7%9A%84%E7%BB%8F%E5%85%B8%E8%AF%AD%E5%BD%95/"/>
     <id>http://example.com/2022/07/03/%E5%8D%95%E5%BC%80%E4%B8%80%E7%AF%87%E8%AE%B0%E5%BD%95%E9%82%A3%E4%BA%9Bzzk%E6%83%8A%E5%90%93%E4%BA%86%E6%97%B6%E5%85%89%E6%BF%80%E6%80%92%E4%BA%86%E5%B2%81%E6%9C%88%E7%9A%84%E7%BB%8F%E5%85%B8%E8%AF%AD%E5%BD%95/</id>
     <published>2022-07-03T14:05:14.000Z</published>
-    <updated>2022-07-04T13:34:14.393Z</updated>
+    <updated>2024-02-24T19:27:10.238Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;引子&quot;&gt;&lt;a href=&quot;#引子&quot; class=&quot;headerlink&quot; title=&quot;引子&quot;&gt;&lt;/a&gt;引子&lt;/h1&gt;&lt;p&gt;起因就是，赵憨子很多一本正经的话和正经做的事都莫名很戳我笑点，谈了这么好的恋爱，还有什么好emo的捏 🤭&lt;/p&gt;</summary>
@@ -158,7 +178,7 @@
     <link href="http://example.com/2022/01/30/%E6%88%91%E7%9A%84%E6%9C%89%E7%9A%84%E6%B2%A1%E7%9A%84/"/>
     <id>http://example.com/2022/01/30/%E6%88%91%E7%9A%84%E6%9C%89%E7%9A%84%E6%B2%A1%E7%9A%84/</id>
     <published>2022-01-30T02:41:29.000Z</published>
-    <updated>2022-12-29T12:12:57.381Z</updated>
+    <updated>2023-02-02T12:10:08.871Z</updated>
     
     
     <summary type="html">&lt;p&gt;第一篇博客写啥，我从好几天前就开始想了，想来想去还是觉得先感谢一下申书记更合适，（拒绝煽情🈲）因为没有他就没有这个网站哈哈。感谢sy书记数天来不厌其烦地帮我debug，以及一个又一个下午地试错，才让我没有半途而废（搞这个真的是好麻烦T^T）&lt;/p&gt;</summary>
